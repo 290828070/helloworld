@@ -1,3 +1,3 @@
 # helloworld
-just for studying
+just for studying  
 This is my first blog
